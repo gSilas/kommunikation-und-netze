@@ -1,6 +1,6 @@
 /* echoclient.c */
 
-#include <cnaiapi.h>
+#include "include/cnaiapi.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
